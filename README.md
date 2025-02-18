@@ -1,4 +1,14 @@
-## Hi there 👋
+## Beep boop, welcome! 🤖
+
+```csharp
+public class Robot
+{
+    public static void Main()
+    {
+        string greeting = "Beep boop, welcome! 🤖";
+        Console.WriteLine(greeting);
+    }
+}
 
 <!--
 **iamyenachoi/iamyenachoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
