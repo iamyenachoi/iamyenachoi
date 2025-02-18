@@ -1,12 +1,34 @@
 ## Beep boop, welcome! 🤖
 
 ```csharp
-public class Robot
+using System;
+					
+public class GreetingRobot
+{
+	public string greeting = "Hi there!";
+	
+    public void Robot()
+    {        
+        Console.WriteLine("Beep boop, " + greeting + "🤖");
+    }
+}
+
+public class Introduction : GreetingRobot
+{
+    public Introduction()
+	{
+    	greeting = "I am Yena Choi!";
+	}
+}
+
+public class Program
 {
     public static void Main()
     {
-        string greeting = "Beep boop, welcome! 🤖";
-        Console.WriteLine(greeting);
+        GreetingRobot welcome = new GreetingRobot();
+        welcome.Robot();
+        Introduction name = new Introduction();
+        name.Robot();
     }
 }
 ```
