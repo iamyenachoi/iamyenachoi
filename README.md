@@ -2,11 +2,11 @@
 
 ```csharp
 using System;
-					
+
 public class GreetingRobot
 {
-	public string greeting = "Hi there!";
-	
+    public string greeting = "Hi there!";
+
     public void Robot()
     {        
         Console.WriteLine("Beep boop, " + greeting + "🤖");
@@ -16,9 +16,9 @@ public class GreetingRobot
 public class Introduction : GreetingRobot
 {
     public Introduction()
-	{
-    	greeting = "I am Yena Choi!";
-	}
+    {
+        greeting = "I am Yena Choi!";
+    }
 }
 
 public class Program
@@ -26,9 +26,10 @@ public class Program
     public static void Main()
     {
         GreetingRobot hi = new GreetingRobot();
-        hi.Robot();
+        hi.Robot(); // Beep boop, Hi there!🤖
+        
         Introduction name = new Introduction();
-        name.Robot();
+        name.Robot(); // Beep boop, I am Yena Choi!🤖
     }
 }
 ```
