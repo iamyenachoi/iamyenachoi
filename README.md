@@ -2,6 +2,7 @@
 
 <details>
   <summary>Click to view code</summary>
+  
 ```csharp
 using System;
 
@@ -35,6 +36,7 @@ public class Program
     }
 }
 ```
+</details>
 
 <!--
 **iamyenachoi/iamyenachoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
