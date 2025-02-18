@@ -25,8 +25,8 @@ public class Program
 {
     public static void Main()
     {
-        GreetingRobot welcome = new GreetingRobot();
-        welcome.Robot();
+        GreetingRobot hi = new GreetingRobot();
+        hi.Robot();
         Introduction name = new Introduction();
         name.Robot();
     }
