@@ -1,5 +1,7 @@
 ## Beep boop, welcome! 🤖
 
+<details>
+  <summary>Click to view code</summary>
 ```csharp
 using System;
 
