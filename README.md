@@ -48,7 +48,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 [![YENA's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyenachoi&show_icons=true&theme=catppuccin_mocha&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyenachoi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamyenachoi%2Fhit-counter&count_bg=%2379E5CB&title_bg=%23555555&icon=github.svg&icon_color=%23FEFEFE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
