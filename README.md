@@ -4,9 +4,7 @@
 ## Beep boop, welcome! 🤖
 
 <p align="right">
-  <a href="https://github.com/iamyenachoi/hit-counter">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamyenachoi%2Fhit-counter&count_bg=%2379E5CB&title_bg=%23555555&icon=github.svg&icon_color=%23FEFEFE&title=hits&edge_flat=false" />
-  </a>
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamyenachoi%2Fhit-counter&count_bg=%2379E5CB&title_bg=%23555555&icon=github.svg&icon_color=%23FEFEFE&title=hits&edge_flat=false)
 </p>
 
 ```csharp
