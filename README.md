@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 [![YENA's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyenachoi&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyenachoi)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyenachoi&hide_progress=true)
