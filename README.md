@@ -1,5 +1,5 @@
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Beep%20boop,%20welcome!%20🤖)
+<!--Header-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Beep%20boop,%20welcome!%20🤖)
 
 <p align="right">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamyenachoi%2Fhit-counter&count_bg=%2379E5CB&title_bg=%23555555&icon=github.svg&icon_color=%23FEFEFE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</p>
 
