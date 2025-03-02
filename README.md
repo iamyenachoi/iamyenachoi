@@ -1,5 +1,5 @@
 <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Beep%20boop,%20welcome!%20y%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Beep%20boop,%20welcome!%20y%20%)
 ## Beep boop, welcome! 🤖
  
 ```csharp
